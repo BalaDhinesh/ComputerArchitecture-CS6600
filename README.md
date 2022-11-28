@@ -1,7 +1,6 @@
 # ComputerArchitecture CS6600 course Assignment
-This repository provides the assignments done as part of Computer Architecture Graduate Level course (CS6600) at IIT Madras.
+This repository provides the assignments done as part of Computer Architecture Graduate Level course (CS6600) at IIT Madras during Jul-Nov 2022 semester.
 
-The assignments are done in collaboration with [Vishnu Varma](https://github.com/Vishnu2912).
 
 ## Assignment - 1: Cachegrind
 In this assignment we utilize Cachegrind simulator to collect various cache statistics such as instruction references, L1 I-Cache misses, L1 D-Cache misses, L2 cache misses etc... for different cache configurations such as associativity, block size, cache sizes etc...
@@ -21,6 +20,8 @@ Source code is available here [A3-Branch-prediction](./A3-Branch-prediction/)
 In this assignment we are required to implement our own data prefetching policy for the using the ChampSim simulator.
 
 Source code is available here [A4-Data-prefetcher](./A4-Data-prefetcher/)
+
+The assignments are done in collaboration with [Vishnu Varma](https://github.com/Vishnu2912).
 
 ## References:
 Cachegrind simulator: https://valgrind.org/docs/manual/cg-manual.html
