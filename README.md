@@ -1,6 +1,7 @@
 # ComputerArchitecture CS6600 course Assignment
 This repository provides the assignments done as part of Computer Architecture Graduate Level course (CS6600) at IIT Madras.
-This project is done in collaboration with [Vishnu Varma](https://github.com/Vishnu2912).
+
+The assignments are done in collaboration with [Vishnu Varma](https://github.com/Vishnu2912).
 
 ## Assignment - 1: Cachegrind
 In this assignment we utilize Cachegrind simulator to collect various cache statistics such as instruction references, L1 I-Cache misses, L1 D-Cache misses, L2 cache misses etc... for different cache configurations such as associativity, block size, cache sizes etc...
